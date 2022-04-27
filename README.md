@@ -40,7 +40,11 @@ HC-SR04 Sonar
 3 pin power barrel
 
 
-# Diagram and Pins
+# Diagram
+
+![alt text](https://github.com/adhillon30/ECE4180-The-Game-Box/blob/main/4180.png?raw=true)
+
+# Pins
 
 | MBED        | ULCD |
 |-------------|------|
