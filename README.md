@@ -46,6 +46,9 @@ HC-SR04 Sonar
 
 # Pins
 
+ULCD
+
+
 | MBED        | ULCD |
 |-------------|------|
 | external 5V | 5V   |
@@ -54,6 +57,8 @@ HC-SR04 Sonar
 | GND         | GND  |
 | p12         | RES  |
 
+
+SONAR
 
 
 | MBED        | SONAR |
@@ -65,12 +70,19 @@ HC-SR04 Sonar
 
 
 
+USER LEDs
+
+
 | MBED | USER LED |
 |------|----------|
 | p26  | red      |
 | p25  | green    |
 | p24  | blue     |
 | GND  | GND      |
+
+Prompt LEDs
+
+
 
 | MBED | PROMPT LED |
 |------|------------|
@@ -79,6 +91,9 @@ HC-SR04 Sonar
 | p21  | blue       |
 | GND  | GND        |
 
+Pushbuttons
+
+
 | MBED | Pushbutton Mapping |
 |------|--------------------|
 | p6   | pb1                |
@@ -86,6 +101,10 @@ HC-SR04 Sonar
 | p8   | pb3                |
 | p9   | pb4                |
 | p5   | pb SUBMIT          |
+
+Potentiometer
+
+
 
 | MBED | POT |
 |------|-----|
