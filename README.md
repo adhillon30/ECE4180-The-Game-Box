@@ -1,6 +1,7 @@
 # ECE4180-The-Game-Box
 ECE 4180 Final Project
-By: Khoa Nguyen, Valentina Fortuny, AJ, Fernando
+
+\n By: Khoa Nguyen, Valentina Fortuny, AJ, Fernando
 
 # Overview
 
