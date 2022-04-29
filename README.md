@@ -120,3 +120,7 @@ Potentiometer
 
 
 [![Watch the video](https://img.youtube.com/vi/M6GnD1-36NE/default.jpg)](https://youtu.be/M6GnD1-36NE)
+
+
+
+LINK: https://youtu.be/M6GnD1-36NE
