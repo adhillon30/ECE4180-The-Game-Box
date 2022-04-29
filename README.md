@@ -2,7 +2,7 @@
 ECE 4180 Final Project
 
 # Authors 
-Team Members: Khoa Nguyen, Valentina Fortuny, AJ Dhillon, Fernando
+Team Members: Khoa Nguyen, Valentina Fortuny, AJ Dhillon, Juan Royer
 
 # Table of Contents
 
