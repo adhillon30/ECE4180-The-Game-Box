@@ -22,6 +22,11 @@ Pattern Game: Use the push buttons to match the displayed patterns on the LCD sc
 
 
 # Photos
+![image](https://user-images.githubusercontent.com/61197643/166117555-96e4df3f-d676-43c8-91a2-07bd9dcfcf2d.png)
+
+![image](https://user-images.githubusercontent.com/61197643/166117578-66a31929-b6ad-488f-b750-49ecb43b230f.png)
+
+![image](https://user-images.githubusercontent.com/61197643/166117619-eed47a75-41dd-4cad-88d5-52159a8f8902.png)
 
 
 
